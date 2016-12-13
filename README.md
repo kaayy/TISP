@@ -4,10 +4,10 @@ This repository contains an implementation of the semantic parser in paper [Type
 
 #### Required Dependencies
 
-1. PyPy: due to the heavy computation required by this parser, it is strongly recommended to use PyPy instead of CPython. This program is tested with PyPy 5.4.0.
+1. `PyPy`: due to the heavy computation required by this parser, it is strongly recommended to use PyPy instead of CPython. This program is tested with PyPy 5.4.0.
 2. Python packages including:
-    2.1 python-gflags: used for command-line arguments parsing.
-    2.2 pyparsing: used for parsing lambda expressions in the dataset. 
+  1. `python-gflags`: used for command-line arguments parsing.
+  2. `pyparsing`: used for parsing lambda expressions in the dataset. 
 
 #### Training
 
