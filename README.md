@@ -1,5 +1,7 @@
 # Type-driven Incremental Semantic Parser
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This repository contains an implementation of the semantic parser in paper [Type-driven Incremental Semantic Parsing with Polymorphism](http://www.aclweb.org/anthology/N/N15/N15-1162.pdf).
 
 #### Required Dependencies
